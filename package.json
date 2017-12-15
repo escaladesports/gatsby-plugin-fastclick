@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-fastclick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your Gatsby app more responsive on touch devices",
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
